@@ -1,0 +1,28 @@
+<?php
+$_['heading_title'] = 'Իմ տեղեկատվությունը';
+$_['text_account'] = 'Գործընկերոջ գրասենյակ';
+$_['text_affiliate'] = 'Գործընկեր';
+$_['text_my_affiliate'] = 'Իմ գործընկերային պրոֆիլը';
+$_['text_payment'] = 'Վճարման տարբերակ';
+$_['text_cheque'] = 'Չեկ';
+$_['text_paypal'] = 'PayPal';
+$_['text_bank'] = 'Բանկային փոխանցում';
+$_['text_success'] = 'Գործընկերոջ պրոֆիլի տվյալները հաջողությամբ թարմացվեցին';
+$_['text_agree'] = 'Ես կարդացի և համաձայն եմ <a href="%s" class="agree"><b>%s</b></a>';
+$_['entry_company'] = 'Ընկերություն';
+$_['entry_website'] = 'Կայք';
+$_['entry_tax'] = 'ՀՎՀՀ';
+$_['entry_payment'] = 'Վճարման տարբերակ';
+$_['entry_cheque'] = 'Չեկը ստացողի անունը';
+$_['entry_paypal'] = 'PayPal պրոֆիլի էլ.փոստ';
+$_['entry_bank_name'] = 'Բանկի անվանումը';
+$_['entry_bank_branch_number'] = 'Մասնաճյուղի համարը';
+$_['entry_bank_swift_code'] = 'ԲԻԿ';
+$_['entry_bank_account_name'] = 'Թղթակցային հաշիվ';
+$_['entry_bank_account_number'] = 'Հաշվարկային հաշիվ';
+$_['error_agree'] = 'Դուք պիտի համաձայնեք %s';
+$_['error_cheque'] = 'Չեկը ստացողի անունը պարտադիր է';
+$_['error_paypal'] = 'PayPal պրոֆիլի էլ.փոստը սխալ է';
+$_['error_bank_account_name'] = 'Թղթակցային հաշիվը պարտադիր է';
+$_['error_bank_account_number'] = 'Հաշվարկային հաշիվը պարտադիր է';
+$_['error_custom_field'] = '%s պարտադիր է';

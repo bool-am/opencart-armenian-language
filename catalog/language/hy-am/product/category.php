@@ -1,0 +1,23 @@
+<?php
+$_['text_refine'] = 'Ընտրեք ենթաբաժինը';
+$_['text_product'] = 'Ապրանքներ';
+$_['text_error'] = 'Բաժինը չգտնվեց';
+$_['text_empty'] = 'Տվյալ բաժնում ապրանքներ չկան ';
+$_['text_quantity'] = 'Քանակ';
+$_['text_manufacturer'] = 'Արտադրող';
+$_['text_model'] = 'Մոդել';
+$_['text_points'] = 'Բոնուսային միավորներ';
+$_['text_price'] = 'Գին';
+$_['text_tax'] = 'Առանց ԱԱՀ';
+$_['text_compare'] = 'Ապրանքների համեմատում (%s)';
+$_['text_sort'] = 'Դասակարգում';
+$_['text_default'] = 'Նախնական';
+$_['text_name_asc'] = 'Անվանում (Ա - Ֆ)';
+$_['text_name_desc'] = 'Անվանում (Ֆ - Ա)';
+$_['text_price_asc'] = 'Գին (ցածր > բարձր)';
+$_['text_price_desc'] = 'Գին (բարձր > ցածր)';
+$_['text_rating_asc'] = 'Վարկանիշ (ցածրից սկսած)';
+$_['text_rating_desc'] = 'Վարկանիշ (բարձրից սկսած)';
+$_['text_model_asc'] = 'Մոդել (Ա - Ֆ)';
+$_['text_model_desc'] = 'Մոդել (Ֆ - Ա)';
+$_['text_limit'] = 'Ցուցադրել';

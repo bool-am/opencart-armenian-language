@@ -22,7 +22,7 @@ $_['entry_status']      = 'Статус';
 $_['entry_sort_order']  = 'Порядок сортировки';
 
 // Help
-$_['help_locale']       = 'Пример: en_US.UTF-8,en_US,en-gb,en_gb,english или <br> ru_RU.UTF-8,ru_RU,russian';
+$_['help_locale']       = 'Օրինալ: en_US.UTF-8,en_US,en-gb,en_gb,english կամ <br> hy_AM.UTF-8,hy_AM,armenian';
 $_['help_status']       = 'Показывать/Скрыть переключатели языков (витрина магазина).';
 
 // Error

@@ -3,36 +3,36 @@
 $_['heading_title']      = 'Dashboard';
 
 // Column
-$_['text_latest']        = 'Latest Orders';
-$_['text_phone']         = 'Phone';
-$_['text_email']         = 'Email';
-$_['text_address']       = 'Address';
-$_['text_edit_profile']  = 'Edit Profile';
-$_['text_total_order']   = 'orders';
-$_['text_total_wishlist']= 'Wishlist';
-$_['text_reward_points'] = 'Reward';
-$_['text_downloads'] 	 = 'Downloads';
-$_['text_transations'] 	 = 'Transations';
-$_['text_no_results'] 	 = 'No Result';
+$_['text_latest']        = 'Վերջին պատվերներ';
+$_['text_phone']         = 'Հեռախոս';
+$_['text_email']         = 'Էլ․ հասցե';
+$_['text_address']       = 'Հասցե';
+$_['text_edit_profile']  = 'Խմբագրել պրոֆիլը';
+$_['text_total_order']   = 'պատվերներ';
+$_['text_total_wishlist']= 'Ընտրյալներ';
+$_['text_reward_points'] = 'Պարգև';
+$_['text_downloads'] 	 = 'ներբեռնվածներ';
+$_['text_transations'] 	 = 'Թարգմանվածներ';
+$_['text_no_results'] 	 = 'Անարդյունք';
 
-$_['text_edit_account']  = 'Edit Account';
-$_['text_change_password']= 'Change Password';
-$_['text_address_book']	 = 'Address Book';
-$_['text_wishlist']	     = 'Wishlist';
-$_['text_order']	     = 'Order';
-$_['text_download']	     = 'Download';
-$_['text_reward_point']	 = 'Reward point';
-$_['text_transation']	 = 'Transation';
-$_['text_returnrequest']	     = 'Return Request';
-$_['text_recurringpayments']	 = 'Recurring Payments';
-$_['text_newsletter']	         = 'Newsletter';
+$_['text_edit_account']  = 'Խմբագրել հաշիվը';
+$_['text_change_password']= 'Փոխել գաղտնաբառը';
+$_['text_address_book']	 = 'Հասցեագիրք';
+$_['text_wishlist']	     = 'Ընտրյալներ';
+$_['text_order']	     = 'Պատվեր';
+$_['text_download']	     = 'Ներբեռնել';
+$_['text_reward_point']	 = 'Պարգևի միավոր';
+$_['text_transation']	 = 'Թարգմանություն';
+$_['text_returnrequest']	     = 'Վերադարձի հարցում';
+$_['text_recurringpayments']	 = 'Պարբերական վճարումներ';
+$_['text_newsletter']	         = 'Լրատու';
 
-$_['column_order_id']    = 'Order Id';
-$_['column_product']     = 'Total Products';
-$_['column_status']      = 'Status';
-$_['column_total'] 		 = 'Total';
-$_['column_date_added']  = 'Date Added';
-$_['column_action']      = 'Action';
+$_['column_order_id']    = 'Պատվերի Id';
+$_['column_product']     = 'Ամբողջ ապրանքները';
+$_['column_status']      = 'Կարգավիճակ';
+$_['column_total'] 		 = 'Ամբողջը';
+$_['column_date_added']  = 'Ավելացման ամսաթիվ';
+$_['column_action']      = 'Գործողություն';
 
-$_['button_view']        = 'View';
-$_['text_viewall'] 	     = 'View all Orders';
+$_['button_view']        = 'Ցուցադրել';
+$_['text_viewall'] 	     = 'Ցուցադրել բոլոր պատվերները';

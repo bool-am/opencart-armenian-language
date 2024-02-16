@@ -1,24 +1,21 @@
 <?php
-// Heading
-$_['heading_title']    = 'Account';
-
-// Text
-$_['text_register']    = 'Register';
-$_['text_login']       = 'Login';
-$_['text_logout']      = 'Logout';
-$_['text_forgotten']   = 'Forgotten Password';
-$_['text_account']     = 'My Account';
-$_['text_edit']        = 'Edit Account';
-$_['text_password']    = 'Password';
-$_['text_address']     = 'Address Book';
-$_['text_wishlist']    = 'Wish List';
-$_['text_order']       = 'Order History';
-$_['text_download']    = 'Downloads';
-$_['text_reward']      = 'Reward Points';
-$_['text_return']      = 'Returns';
-$_['text_transaction'] = 'Transactions';
-$_['text_newsletter']  = 'Newsletter';
-$_['text_recurring']   = 'Recurring payments';
-$_['text_myprofile']   = 'My Profile';
-$_['text_order']       = 'Order';
-$_['text_headingorder']= 'Order';
+$_['heading_title']    = 'Հաշիվ';
+$_['text_register']    = 'Գրանցվել';
+$_['text_login']       = 'Մուտք';
+$_['text_logout']      = 'Ելք';
+$_['text_forgotten']   = 'Մոռացե՞լ եք գաղտնաբառը';
+$_['text_account']     = 'Իմ հաշիվը';
+$_['text_edit']        = 'Խմբագրել հաշիվը';
+$_['text_password']    = 'Գաղտնաբառ';
+$_['text_address']     = 'Հասցեագիրք';
+$_['text_wishlist']    = 'Ընտրյալներ';
+$_['text_order']       = 'Պատվերների պատմություն';
+$_['text_download']    = 'Բեռնումներ';
+$_['text_reward']      = 'Բոնուսային միավորներ';
+$_['text_return']      = 'Վերադարձներ';
+$_['text_transaction'] = 'Գործարքներ';
+$_['text_newsletter']  = 'Նորություններ';
+$_['text_recurring']   = 'Պարբերական վճարկուներ';
+$_['text_myprofile']   = 'Իմ պրոֆիլը';
+$_['text_order']       = 'Պատվեր';
+$_['text_headingorder']= 'Պատվեր';

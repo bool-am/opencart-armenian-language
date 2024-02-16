@@ -1,8 +1,7 @@
 <?php
 $_['heading_title'] = 'Անձնական գրասենյակ';
 $_['text_register'] = 'Գրանցում';
-$_['text_login'] = 'Մուտք
-';
+$_['text_login'] = 'Մուտք';
 $_['text_logout'] = 'Ելք';
 $_['text_forgotten'] = 'Մոռացե՞լ եք գաղտնաբառը';
 $_['text_account'] = 'Իմ տվյալները';

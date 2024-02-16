@@ -65,7 +65,7 @@ class Armenian extends \Opencart\System\Engine\Controller {
 				$language_data = [
 					'name'       => 'Armenian',
 					'code'       => 'hy-am',
-					'locale'     => 'hy-am',
+					'locale'     => 'hy-AM,hy_AM.UTF-8,hy_AM,hy-am,armenian',
 					'extension'  => 'bool_language_armenian',
 					'status'     => 1,
 					'sort_order' => 1
